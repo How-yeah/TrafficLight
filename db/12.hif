@@ -1,0 +1,127 @@
+Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition
+2
+24
+OFF
+OFF
+OFF
+ON
+ON
+OFF
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+12
+# storage
+db|12.(0).cnf
+db|12.(0).cnf
+# case_insensitive
+# source_file
+12.bdf
+346f6c381845195225c2af9e77e1916
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# entity
+74139
+# storage
+db|12.(1).cnf
+db|12.(1).cnf
+# case_insensitive
+# source_file
+d:|softwares|quartus|libraries|others|maxplus2|74139.bdf
+4ab546d7302e8fe86bee1b6b8b90e8c6
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+74139:inst20
+}
+# macro_sequence
+
+# end
+# entity
+7474
+# storage
+db|12.(2).cnf
+db|12.(2).cnf
+# case_insensitive
+# source_file
+d:|softwares|quartus|libraries|others|maxplus2|7474.bdf
+f0d781b738e7134a9d686c0ea27f
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+7474:inst52
+7474:inst53
+}
+# macro_sequence
+
+# end
+# entity
+74190
+# storage
+db|12.(3).cnf
+db|12.(3).cnf
+# case_insensitive
+# source_file
+d:|softwares|quartus|libraries|others|maxplus2|74190.bdf
+a0413bccd9ac2c3b15fd9f3bf36665e
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+74190:inst1
+74190:inst
+74190:inst9
+}
+# macro_sequence
+
+# end
+# entity
+74244
+# storage
+db|12.(4).cnf
+db|12.(4).cnf
+# case_insensitive
+# source_file
+d:|softwares|quartus|libraries|others|maxplus2|74244.bdf
+b991c4e54d71024b356407b6c66fc4
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+74244:inst15
+74244:inst16
+74244:inst17
+}
+# macro_sequence
+
+# end
+# complete
+

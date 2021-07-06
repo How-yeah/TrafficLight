@@ -1,0 +1,56 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 41.300 ns
+From           : 7474:inst53|9
+To             : MYellow
+From Clock     : pulse
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case tpd
+Slack          : N/A
+Required Time  : None
+Actual Time    : 17.100 ns
+From           : pattern2
+To             : MGreen
+From Clock     : --
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Clock Setup: 'pulse'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 78.74 MHz ( period = 12.700 ns )
+From           : 7474:inst52|9
+To             : 7474:inst52|9
+From Clock     : pulse
+To Clock       : pulse
+Failed Paths   : 0
+
+Type           : Clock Hold: 'pulse'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : 7474:inst53|9
+To             : 7474:inst53|9
+From Clock     : pulse
+To Clock       : pulse
+Failed Paths   : 27
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 27
+
+--------------------------------------------------------------------------------------
+
